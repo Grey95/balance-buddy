@@ -1,8 +1,5 @@
 [build]
   publish = "site"
 
-# Single self-contained page (Claude/Figma-Make bundle). Any path serves it.
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
+# Real multi-page static site: index.html + privacy.html, with 404.html for
+# unknown paths (Netlify serves it with a 404 status). No catch-all SPA redirect.
