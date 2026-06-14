@@ -1,0 +1,34 @@
+# Balance Buddy
+
+> Balance Buddy is an 8-week live online cohort that teaches finance professionals
+> (Chartered Accountants, Cost & Management Accountants, Company Secretaries) to build
+> AI assistants, automations and agent teams that handle repetitive finance, tax and
+> compliance work. "AI Systems for Finance Professionals." Beginner-friendly, no code
+> required. Instructor: Aditya Srivastava.
+
+## About
+
+- **What it is:** A live, weekend, cohort-based program (Saturday & Sunday, ~2 hours, online) over eight weeks.
+- **Who it's for:** CA, CMA, CS and other finance/accounting professionals who want to use AI in real work.
+- **What you build:** AI assistants, automations and multi-agent workflows for tasks like invoice extraction, GST reconciliation, audit sampling, variance commentary, TDS/return drafting, MIS dashboards and annual-report analysis.
+- **Format:** Small focused group, live sessions, hands-on. Beginner friendly — no prior coding needed.
+- **Risk-free:** First session is risk-free; full refund available before session 2.
+
+## Instructor
+
+- **Aditya Srivastava** — Data & Automation Specialist and instructor.
+
+## Enrol / Contact
+
+- Website: https://aditya.quest/
+- Email: aditya@balancebuddy.com
+- WhatsApp: +91 85281 00305
+- Reserve a seat or book a free demo class via the form on the site.
+
+## Sections
+
+- Roadmap — the 8-week curriculum
+- Outcomes / Results — what you can do after the cohort
+- Instructor — about Aditya
+- Pricing — cohort pricing and seats
+- FAQ — common questions
